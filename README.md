@@ -44,7 +44,20 @@ Here are some ideas to get you started:
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      <td width="100px" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Rust</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>VS Code</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
     </tr>
+<!--
     <tr>
       <td width="100px" align="center">
         <span>Docker</span><br><br><br>
@@ -59,6 +72,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
+-->
   </tbody>
 </table>
 
