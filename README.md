@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+<!--
+- 😄 He/Him.
+-->
+- 📌 Stationed in Stockholm, Sweden.
+<!--
+- ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
+- 🧡 I love community, open source, equality, kindness and user centered design.
+- 💬 Talk to me about applied psychology and software/systems architecture.
+- 💻 Find my blog at [Takken.io](https://takken.io).
+- 📧 Drop me a line at webber@takken.io.
+-->
