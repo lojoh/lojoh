@@ -84,3 +84,11 @@ Here are some ideas to get you started:
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
+
+## Projects
+
+### Death Arena
+
+A little game inspired by Death Rally ([playable](https://lojoh.github.io/invaders/)). Built in Rust using Bevy-engine.
+
+[![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
