@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 
 ## Projects
 
-### Death Arena
+### Invaders
 
-A space invaders clone that runs in the terminal. ([playable](https://lojoh.github.io/invaders/)). Written in Rust.
+A space invaders clone that runs in the terminal. Written in Rust.
 
-[![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
+[![Invaders](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
