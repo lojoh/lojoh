@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/lojoh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=webbertakken&count_private=true&theme=radical&show_icons=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbertakken&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lojoh&count_private=true&theme=radical&show_icons=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
