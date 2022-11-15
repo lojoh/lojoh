@@ -26,3 +26,13 @@ Here are some ideas to get you started:
 - 💻 Find my blog at [Takken.io](https://takken.io).
 - 📧 Drop me a line at webber@takken.io.
 -->
+
+
+## 📈 Some stats
+
+<div>
+  <a href="https://github.com/lojoh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=webbertakken&count_private=true&theme=radical&show_icons=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbertakken&layout=compact&langs_count=16&theme=radical"/>
+  </a>
+</div>
