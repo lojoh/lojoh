@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 
 ### Death Arena
 
-A little game inspired by Death Rally ([playable](https://lojoh.github.io/invaders/)). Built in Rust using Bevy-engine.
+A space invaders clone that runs in the terminal. ([playable](https://lojoh.github.io/invaders/)). Written in Rust.
 
 [![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
