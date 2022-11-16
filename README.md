@@ -34,7 +34,7 @@ A space invaders clone that runs in the terminal. Written in Rust.
 
 ### Multiband compressor
 
-A multiband audio compressor made with the JUCE framework.
+An audio multiband compressor made with the JUCE framework.
 
 [![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
 
