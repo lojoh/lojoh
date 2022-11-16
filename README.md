@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 He/Him
-- 🔭 Currently working at [@sverigesradio](https://github.com/sverigesradio)
+- 🔨 Currently working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stationed in Stockholm, Sweden.
 <!--
 - ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
