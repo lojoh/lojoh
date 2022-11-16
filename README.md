@@ -76,13 +76,9 @@ A multiband audio compressor made with the JUCE framework.
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       </td>
       <td width="100px" align="center">
-        <span>C#</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'>
       </td>
-      
-      <a href='https://nodejs.org' target='_blank'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' width='40' height='40' />
-  </a>
     </tr>
 <!--
     <tr>
