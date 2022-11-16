@@ -103,7 +103,7 @@ A multiband audio compressor made with the JUCE framework.
    
   </tbody>
 </table>
- _and many more tools!_
+ ...and many more!
 
 ## 📈 Some stats
 
