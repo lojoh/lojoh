@@ -67,7 +67,7 @@ A multiband audio compressor made with the JUCE framework.
       </td>
       <td width="100px" align="center">
         <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
 <!--
