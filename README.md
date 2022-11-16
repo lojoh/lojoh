@@ -26,6 +26,20 @@ Here are some ideas to get you started:
 - 📧 Drop me a line at webber@takken.io.
 -->
 
+## Projects
+
+### Invaders
+
+A space invaders clone that runs in the terminal. Written in Rust.
+
+[![Invaders](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
+
+### Multiband compressor
+
+A multiband audio compressor made with the JUCE framework.
+
+[![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
+
 ## 🛠 Tools I use
 
 <table>
@@ -74,7 +88,7 @@ Here are some ideas to get you started:
 -->
   </tbody>
 </table>
-
+ <!--
 ## 📈 Some stats
 
 <div>
@@ -83,17 +97,5 @@ Here are some ideas to get you started:
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
+-->
 
-## Projects
-
-### Invaders
-
-A space invaders clone that runs in the terminal. Written in Rust.
-
-[![Invaders](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
-
-### Multiband compressor
-
-A multiband compressor made with the JUCE framework.
-
-[![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
