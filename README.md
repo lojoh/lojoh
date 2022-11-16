@@ -41,7 +41,7 @@ A multiband audio compressor made with the JUCE framework.
 
 [![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
 
-## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## 🔨 Tools 𝗜 𝗨𝘀𝗲
 
 <table>
   <tbody>
