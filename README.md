@@ -75,6 +75,14 @@ A multiband audio compressor made with the JUCE framework.
         <span>C#</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       </td>
+      <td width="100px" align="center">
+        <span>C#</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      </td>
+      
+      <a href='https://nodejs.org' target='_blank'>
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' width='40' height='40' />
+  </a>
     </tr>
 <!--
     <tr>
@@ -142,9 +150,7 @@ Welcome to my github profile! I speak `french`, `english` and many programming l
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt='laravel' width='40' height='40' />
   </a> <a href='https://www.linux.org/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='linux' width='40' height='40' />
-  </a> <a href='https://nodejs.org' target='_blank'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' width='40' height='40' />
-  </a> <a href='https://www.postgresql.org' target='_blank'>
+  </a><a href='https://www.postgresql.org' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgresql' width='40' height='40' />
   </a> <a href='https://www.python.org' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40' />
