@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 
-Welcome to my github profile!
+
 
 <!--
 **lojoh/lojoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
