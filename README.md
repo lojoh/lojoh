@@ -73,7 +73,7 @@ A multiband audio compressor made with the JUCE framework.
       </td>
       <td width="100px" align="center">
         <span>C#</span><br><br><br>
-        <img height="64px" src="<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp' width='40' height='40' />">
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       </td>
     </tr>
 <!--
