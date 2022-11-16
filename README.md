@@ -92,14 +92,16 @@ A multiband audio compressor made with the JUCE framework.
 -->
   </tbody>
 </table>
- <!--
+
 ## 📈 Some stats
 
 <div>
   <a href="https://github.com/lojoh">
+<!--
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=lojoh&count_private=true&theme=radical&show_icons=true"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
+-->
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&count_private=true&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
--->
+
 
