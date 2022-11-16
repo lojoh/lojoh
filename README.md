@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-- 😄 He/Him.
--->
+
+- 😄 He/Him
 - 🔭 I’m currently working at [@sverigesradio](https://github.com/sverigesradio)
-- 📌 Stationed in Stockholm, Sweden.
+- 🌎 Stationed in Stockholm, Sweden.
 <!--
 - ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
 - 🧡 I love community, open source, equality, kindness and user centered design.
