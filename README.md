@@ -1,8 +1,3 @@
-## Hi there 👋
-I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
-
-
-
 <!--
 **lojoh/lojoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 
 - 😄 He/Him
 - 🔨 Currently working at [@sverigesradio](https://github.com/sverigesradio)
@@ -83,24 +81,6 @@ A multiband audio compressor made with the JUCE framework.
         <img height="64px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'>
       </td>
     </tr>
-<!--
-    <tr>
-      <td width="100px" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Rust</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
--->
-    
-   
   </tbody>
 </table>
  ...and many more!
@@ -113,29 +93,3 @@ A multiband audio compressor made with the JUCE framework.
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
-
-<!--
-## Hi :wave:  
-
-I'm Gabriel Le Breton aka GabLeRoux, nice to meet you 🍻
-
-Welcome to my github profile! I speak `french`, `english` and many programming languages. You can read my stuff on [gableroux.com](http://www.gableroux.com/)
-
-## 🔭 I’m currently working on
-
-[![game.ci](https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250)](https://game.ci/)  
-[game.ci](https://game.ci), a community to make building and testing games easier <3
-
-![🐍](https://github.com/gableroux/gableroux/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-## 📫 How to reach me:
-
-Send me cold emails at [lebreton.gabriel@gmail.com](mailto:lebreton.gabriel@gmail.com) or join me on discord at [game.ci/discord](http://game.ci/discord) 🤘
-
--->
