@@ -100,9 +100,10 @@ A multiband audio compressor made with the JUCE framework.
     </tr>
 -->
     
-    _and many more tools!_
+   
   </tbody>
 </table>
+ _and many more tools!_
 
 ## 📈 Some stats
 
