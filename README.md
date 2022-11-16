@@ -61,7 +61,7 @@ A multiband audio compressor made with the JUCE framework.
       </td>
       <td width="100px" align="center">
         <span>Rust</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust-gray.svg">
       </td>
       <td width="100px" align="center">
         <span>VS Code</span><br><br><br>
