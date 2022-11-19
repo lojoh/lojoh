@@ -85,6 +85,7 @@ A multiband audio compressor made with the JUCE framework.
 </table>
  ...and many more!
 
+<!--
 ## 📈 Some stats
 
 <div>
@@ -93,3 +94,4 @@ A multiband audio compressor made with the JUCE framework.
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojoh&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
+-->
