@@ -95,3 +95,5 @@ A multiband audio compressor made with the JUCE framework.
   </a>
 </div>
 -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
