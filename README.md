@@ -34,7 +34,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 -->
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
