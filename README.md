@@ -25,6 +25,11 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 - 💬 Talk to me about applied psychology and software/systems architecture.
 -->
 
+<div align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
+
+
 ## Projects
 
 ### Invaders
@@ -85,9 +90,9 @@ A multiband audio compressor made with the JUCE framework.
 </table>
  ...and many more!
 
-
-## 📈 Some stats
 <!--
+## 📈 Some stats
+
 <div>
   <a href="https://github.com/lojoh">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=lojoh&count_private=true&theme=radical&show_icons=true"/>
@@ -96,7 +101,4 @@ A multiband audio compressor made with the JUCE framework.
 </div>
 -->
 
-<div align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</div>
 
