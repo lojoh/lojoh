@@ -36,16 +36,10 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
   <tr>
     <td><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></td>
     <td>
-      <td><img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></td>
-      <td><img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400"></td>
+      <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
+      <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400">
     
     </td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
 </table>
 
