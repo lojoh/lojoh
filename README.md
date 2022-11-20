@@ -39,7 +39,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
       <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
     </td>
     <td width="50%">
-      <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" height="50%" width="100%">
+      <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" height="50%" width="100%">
       <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" height="50%" width="100%">   
     </td>
   </tr>
