@@ -70,7 +70,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 
 -->
 <div align="center" width="50%">
-  <table>
+  <table width="50%">
     <tr>
       <td width="50%">
         <div align="center">
