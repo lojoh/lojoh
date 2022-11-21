@@ -19,10 +19,11 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 - 😄 He/Him
 - 🔨 Currently working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stationed in Stockholm, Sweden.
+- 🧡 Audio, music & programming.
 
 <!--
 - ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
-- 🧡 I love community, open source, equality, kindness and user centered design.
+
 - 💬 Talk to me about applied psychology and software/systems architecture.
 
 
