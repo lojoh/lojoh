@@ -90,6 +90,13 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 
 ## Projects
 
+### Lojoh OS
+
+[work in progress]
+My own operating system. Written in Rust.
+
+[![Lojoh OS](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=lojoh_os&theme=radical&show_icons=true)](https://github.com/lojoh/lojoh_os)
+
 ### Invaders
 
 A space invaders clone that runs in the terminal. Written in Rust.
