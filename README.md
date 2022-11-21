@@ -72,14 +72,14 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 ##
 <table>
   <tr>
-    <td width="50%">
+    <td width="60%">
       <div>
         <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="80%">
       </div>
     </td>
   </tr>
    <tr>
-    <td width="50%">
+    <td width="60%">
       <div align="center">
         <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="80%">   
       </div>
@@ -102,6 +102,7 @@ A multiband audio compressor made with the JUCE framework.
 
 [![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
 
+<!--
 ## 🔨 Tools 𝗜 𝗨𝘀𝗲
 
 <table>
@@ -147,7 +148,7 @@ A multiband audio compressor made with the JUCE framework.
   </tbody>
 </table>
  ...and many more!
-
+-->
 <!--
 ## 📈 Some stats
 
