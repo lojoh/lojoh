@@ -44,12 +44,23 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
     </td>
   </tr>
 </table>
--->
+
 
 <div align="center">
-   <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="51%">
+   <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="100%">
    <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="51%"> 
 </div>
+-->
+<table>
+  <tr>
+    <td width="50%">
+      <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" height="50%" width="100%">
+    </td>
+    <td width="50%">
+      <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" height="50%" width="100%">   
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
