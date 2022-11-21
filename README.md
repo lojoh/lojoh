@@ -79,7 +79,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
     </td>
   </tr>
    <tr>
-    <td width="75%">
+    <td width="100%">
       <div align="center">
         <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="80%">   
       </div>
