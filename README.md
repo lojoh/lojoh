@@ -46,23 +46,9 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 </table>
 -->
 
-<table>
-  <tr>
-
-      <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="40%">
-
-
-  </tr>
-    <tr>
-
-     <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="40%"> 
-
-  </tr>
-</table>
-
 <div align="center">
-   <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="40%">
-   <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="40%"> 
+   <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="51%">
+   <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="51%"> 
 </div>
 
 ## Projects
