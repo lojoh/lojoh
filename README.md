@@ -19,6 +19,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 - 😄 He/Him
 - 🔨 Currently working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stationed in Stockholm, Sweden.
+
 <!--
 - ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
 - 🧡 I love community, open source, equality, kindness and user centered design.
@@ -61,8 +62,8 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
     </td>
     <td width="50%">
       <div align="center">
-      <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="80%">   
-        </div>
+        <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="80%">   
+      </div>
     </td>
   </tr>
 </table>
