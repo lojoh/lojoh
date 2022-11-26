@@ -92,7 +92,7 @@ I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 ## Projects
 
 ### Lojoh OS
-My own operating system. Written in Rust. (Work in progress)
+Experimental operating system. Written in Rust. (Work in progress)
 
 [![Lojoh OS](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=lojoh_os&theme=radical&show_icons=true)](https://github.com/lojoh/lojoh_os)
 
