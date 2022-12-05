@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Ludwig Lord Johansson aka lojoh, nice to meet you 🍻
 
 - 😄 He/Him
-- 🔨 Currently working at [@sverigesradio](https://github.com/sverigesradio)
+- 🔨 Working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stationed in Stockholm, Sweden.
 - 🧡 Audio, music & programming.
 
