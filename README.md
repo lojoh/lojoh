@@ -9,7 +9,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 ##
 <table>
   <tr>
-    <td width="100%"; color="yellow">
+    <td width="100%" color="yellow">
       <div>
         <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="100%">
       </div>
