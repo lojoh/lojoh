@@ -16,7 +16,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
     </td>
   </tr>
    <tr>
-    <td width="100%; color:orange">
+    <td width="100%; background-color: yellow;">
       <div align="center">
         <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="100%">   
       </div>
