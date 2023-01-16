@@ -3,7 +3,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 
 - 😄 He/Him
 - 🔨 Working at [@sverigesradio](https://github.com/sverigesradio)
-- 🌎 Stationed in Stockholm, Sweden.
+- 🌎 Stockholm, Sweden.
 - 🧡 Audio, music & programming.
 
 ##
