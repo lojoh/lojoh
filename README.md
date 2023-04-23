@@ -25,7 +25,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 </table>
 
 
-## Projects
+<!-- ## Projects
 
 ### Lojoh OS
 Experimental operating system. Written in Rust. (Work in progress)
@@ -42,4 +42,4 @@ A space invaders clone that runs in the terminal. Written in Rust.
 
 A multiband audio compressor made with the JUCE framework.
 
-[![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp)
+[![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp) -->
