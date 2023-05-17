@@ -5,7 +5,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 - 🔨 Working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
 - 🧡 Audio, music & programming
-- 🌩️ Lightning network
+- ⚡ Lightning network
 
 
 ##
