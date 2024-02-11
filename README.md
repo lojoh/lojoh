@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 😄 He/Him
 - 🔨 Working at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
 - 🧡 Audio, music & programming
