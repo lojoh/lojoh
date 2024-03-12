@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 🔨 Building a new radio production system at [@sverigesradio](https://github.com/sverigesradio)
+- 🔨 Software engineer at One Agency
+  - 🔨 Previously worked on a new radio production system at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
 - 🧡 Audio, music & programming
 - ⚡ Lightning network
