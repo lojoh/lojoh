@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 🔨 Software engineer at One Agency
+- 🔨 Software Engineer at [@OneAgencySE](https://github.com/OneAgencySE)
 - 📻 Previously worked on a building new radio production system at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
 - 🧡 Audio, music & programming
