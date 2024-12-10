@@ -5,8 +5,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 - 🥷 Swiss army knife ninja at [@svartkonst](https://github.com/huueee)
 - 📻 Previously worked on a building new radio production system at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
-- 🧡 Audio, music & programming
-- ⚡ Lightning network
+- ⚡ BTC Lightning network
 
 
 ##
