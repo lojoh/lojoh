@@ -2,7 +2,7 @@
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
 - 🔨 Software Engineer at [@OneAgency](https://github.com/OneAgencySE)
-- 🥷 Coding ninja at [@svartkonst](https://github.com/svartkonst)
+- 🥷 Founder & coding ninja at [@svartkonst](https://github.com/svartkonst)
 - 📻 Previously worked on a building new radio production system at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden
 - ⚡ BTC Lightning network
