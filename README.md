@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 🚀 Thriving in the mix between AI and media at [@LiveArena](https://github.com/LiveArena)
+- 🚀 Senior software developer at [@LiveArena](https://github.com/LiveArena)
 - 🥷 Founder & coding ninja at [@svartkonst](https://github.com/svartkonst)
 - Previously:
   - 🔨 Software engineering consultant at [@OneAgency](https://github.com/OneAgencySE)
