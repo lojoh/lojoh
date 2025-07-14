@@ -6,7 +6,7 @@ I'm Ludwig aka lojoh, nice to meet you 🍻
 - Previously:
   - 🔨 Software engineering consultant at [@OneAgency](https://github.com/OneAgencySE)
   - 📻 Worked on a building new radio production system at [@sverigesradio](https://github.com/sverigesradio)
-- 🌎 Stockholm, Sweden
+- 🌎 Stockholm, Sweden || Oslo, Norway
 - ⚡ BTC Lightning network
 
 
