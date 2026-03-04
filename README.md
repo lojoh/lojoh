@@ -1,11 +1,11 @@
 ## Hi there 👋
 I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 🚀 Senior software developer at [@LiveArena](https://github.com/LiveArena)
+- 🚀 Thriving in the mix between AI and media as a senior software developer at [@AI Producer](https://github.com/LiveArena)
 - 🥷 Founder at [@svartkonst](https://github.com/svartkonst)
 - Previously:
   - 🔨 Software engineering consultant at [@OneAgency](https://github.com/OneAgencySE)
-  - 📻 Worked on a building new radio production system at [@sverigesradio](https://github.com/sverigesradio)
+  - 📻 Built a new radio production system at [@sverigesradio](https://github.com/sverigesradio)
 - 🌎 Stockholm, Sweden || Oslo, Norway
 - ⚡ BTC Lightning network
 
