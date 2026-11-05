@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="./Futuristic%20Blue%20Wave%20Grid.png" alt="Blue futuristic wave grid banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 I'm **Ludwig** aka **lojoh**. Nice to meet you 🍻
 
-- 🚀 Senior software developer at the intersection of AI and media, at [AI Producer](https://github.com/LiveArena)
+- 🚀 Thriving at the intersection of AI and media, at [AI Producer](https://github.com/LiveArena)
 - 📄 Inventor - Patent pending in video processing
 - 🥷 Founder of [svartkonst](https://github.com/svartkonst)
 - 🔭 Previously:
