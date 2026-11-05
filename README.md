@@ -1,49 +1,24 @@
 ## Hi there 👋
-I'm Ludwig aka lojoh, nice to meet you 🍻
 
-- 🚀 Thriving in the mix between AI and media as a senior software developer at [@AI Producer](https://github.com/LiveArena)
-- 🥷 Founder at [@svartkonst](https://github.com/svartkonst)
-- Previously:
-  - 🔨 Software engineering consultant at [@OneAgency](https://github.com/OneAgencySE)
-  - 📻 Built a new radio production system at [@sverigesradio](https://github.com/sverigesradio)
-- 🌎 Stockholm, Sweden || Oslo, Norway
-- ⚡ BTC Lightning network
+I'm **Ludwig** aka **lojoh**. Nice to meet you 🍻
 
+- 🚀 Senior software developer at the intersection of AI and media, at [AI Producer](https://github.com/LiveArena)
+- 📄 Inventor - Patent pending in video processing
+- 🥷 Founder of [svartkonst](https://github.com/svartkonst)
+- 🔭 Previously:
+  - 🔨 Software engineering consultant at [OneAgency](https://github.com/OneAgencySE)
+  - 📻 Built a new radio production system at [Sveriges Radio](https://github.com/sverigesradio)
+- 📍 Based in Stockholm, Sweden 🇸🇪 and Oslo, Norway 🇳🇴
 
-##
 <table>
   <tr>
-    <td width="100%" background-color="yellow">
-      <div>
-        <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="100%">
-      </div>
+    <td width="100%">
+      <img src="./metrics.plugin.languages.details.svg" alt="Languages" width="100%">
     </td>
   </tr>
-   <tr>
-    <td width="100%; background-color: yellow;">
-      <div align="center">
-        <img align="center" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="100%">   
-      </div>
+  <tr>
+    <td width="100%" align="center">
+      <img src="./metrics.plugin.topics.icons.svg" alt="Topics" width="100%">
     </td>
   </tr>
 </table>
-
-
-<!-- ## Projects
-
-### Lojoh OS
-Experimental operating system. Written in Rust. (Work in progress)
-
-[![Lojoh OS](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=lojoh_os&theme=radical&show_icons=true)](https://github.com/lojoh/lojoh_os)
-
-### Invaders
-
-A space invaders clone that runs in the terminal. Written in Rust.
-
-[![Invaders](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=invaders&theme=radical&show_icons=true)](https://github.com/lojoh/invaders)
-
-### Multiband compressor
-
-A multiband audio compressor made with the JUCE framework.
-
-[![Multiband compressor](https://github-readme-stats.vercel.app/api/pin/?username=lojoh&repo=simple-mb-comp&theme=radical&show_icons=true)](https://github.com/lojoh/simple-mb-comp) -->
